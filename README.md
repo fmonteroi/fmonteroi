@@ -7,11 +7,11 @@ I'm particularly interested in **backend development and software engineering**,
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Java, Python, TypeScript, JavaScript, C#
+- **Languages:** Java, Python, C#, C++, ADA
 - **Backend:** Spring Boot, REST APIs, JPA/Hibernate
-- **Frontend:** React, HTML, CSS
+- **Frontend:** React, TypeScript (project experience)
 - **Databases:** PostgreSQL, MySQL, SQL
-- **Tools:** Git, Docker, Linux, GitHub Actions
+- **Tools:** Git, Docker, Linux
 - **Other:** Unity, Blender
 
 ### 🚀 Featured Projects
