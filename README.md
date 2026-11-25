@@ -1,7 +1,7 @@
 
 # Hi, I'm Francisco 👋
 
-I'm a recent graduate in **Computer Engineering and Telematics Engineering** from the University of Extremadura, Spain, with a final GPA of **8.63/10**.
+I'm a recent graduate in **Computer Engineering and Telematics Engineering** from the University of Extremadura, Spain, with a final GPA of **8.64/10**.
 
 I'm particularly interested in **backend development and software engineering**, with a focus on Java and Spring Boot. I enjoy solving technical challenges, building applications and learning new technologies.
 
